@@ -16,7 +16,6 @@ Autonomous multi-agent system that streams live Federal Reserve data, autonomous
 - **Self-taught LangChain + LangGraph + MCP + GCP in <2 months** from zero experience
 - Production-deployed to Cloud Run with 100s of live users
 - Autonomous multi-step reasoning with stateful tool delegation
-- Live Demo: [causal-econ-agent-184788370046.us-central1.run.app](https://causal-econ-agent-184788370046.us-central1.run.app)
 
 `LangChain` `LangGraph` `Gemini 2.0` `GCP (Cloud Run, Pub/Sub, BigQuery)` `DoWhy` `Granger Causality` `ReAct Agents` `Streamlit` `Docker`
 
