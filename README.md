@@ -2,7 +2,7 @@
 
 **AI/ML Engineer · Causal Inference · Agentic AI Systems**
 
-Final-year Integrated M.Tech CS student at VIT-AP (9.53 CGPA), currently shipping AI/ML systems at **Intel Corporation**. I build production-grade ML systems and agentic AI pipelines that solve hard problems independently—from research to production deployment.
+M.Tech CS graduate from VIT-AP (Batch 1st, 3 consecutive years). Currently shipping AI/ML systems at **Intel Corporation**. I build production-grade ML systems and agentic AI pipelines that solve hard problems independently—from research to production deployment.
 
 ---
 
@@ -16,7 +16,7 @@ Autonomous multi-agent system that streams live Federal Reserve data, autonomous
 - **Self-taught LangChain + LangGraph + MCP + GCP in <2 months** from zero experience
 - Production-deployed to Cloud Run with 100s of live users
 - Autonomous multi-step reasoning with stateful tool delegation
-
+- 
 `LangChain` `LangGraph` `Gemini 2.0` `GCP (Cloud Run, Pub/Sub, BigQuery)` `DoWhy` `Granger Causality` `ReAct Agents` `Streamlit` `Docker`
 
 ---
@@ -64,7 +64,7 @@ ResNet-34 CNN with transfer learning for plant disease detection and species cla
 
 ## 💼 Current Work — Intel Corporation
 
-**Software Applications Engineering Intern (AI/ML & Data Science) | July 2025 – Present**
+**Software Applications Engineering Intern (AI/ML & Data Science) | Intel Corporation | July 2025 – May 2026**
 
 - Designed partner growth ranking system handling 10,000+ enterprise accounts on Databricks
 - **Accelerated partner evaluation from 2 weeks → 3 days** via adaptive ensemble forecasting (ETS, Holt's, WMA)
@@ -94,7 +94,7 @@ ResNet-34 CNN with transfer learning for plant disease detection and species cla
 
 ## 📊 By The Numbers
 
-- **9.53 CGPA** — Academic Merit Award, 3 consecutive years (VIT-AP)
+- **Batch 1st** — 3 consecutive years, Academic Merit Award (VIT-AP)
 - **<2 months** — Zero to production-shipped agentic AI system
 - **100%** — Drift detection F1 + specificity
 - **99.3%** — Plant disease detection accuracy
