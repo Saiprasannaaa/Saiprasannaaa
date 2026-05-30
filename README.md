@@ -2,7 +2,7 @@
 
 **AI/ML Engineer · Causal Inference · Agentic AI Systems**
 
-M.Tech CS graduate from VIT-AP (Batch 1st, 3 consecutive years). Currently shipping AI/ML systems at **Intel Corporation**. I build production-grade ML systems and agentic AI pipelines that solve hard problems independently—from research to production deployment.
+M.Tech CS graduate from VIT-AP (Batch 1st, 3 consecutive years). Currently shipping AI/ML systems at **Intel Corporation**. I build production-grade ML systems and agentic AI pipelines that solve hard problems independently, from research to production deployment.
 
 ---
 
@@ -10,7 +10,7 @@ M.Tech CS graduate from VIT-AP (Batch 1st, 3 consecutive years). Currently shipp
 
 ### [Causal Economic Policy Intelligence Agent](https://github.com/Saiprasannaaa/causal-econ-agent)
 
-Autonomous multi-agent system that streams live Federal Reserve data, autonomously discovers causal relationships using Granger Causality + Pearl's do-calculus, and simulates macroeconomic policy interventions—**without human prompting**. Independently rediscovered the Phillips Curve and Friedman's monetary theory from raw macroeconomic data.
+Autonomous multi-agent system that streams live Federal Reserve data, autonomously discovers causal relationships using Granger Causality + Pearl's do-calculus, and simulates macroeconomic policy interventions, **without human prompting**. Independently rediscovered the Phillips Curve and Friedman's monetary theory from raw macroeconomic data.
 
 **Key Achievements:**
 - **Self-taught LangChain + LangGraph + MCP + GCP in <2 months** from zero experience
